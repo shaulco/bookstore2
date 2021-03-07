@@ -4,8 +4,12 @@ import javax.servlet.jsp.*;
 import org.apache.jasper.runtime.*;
 
 public class Footer_jsp extends HttpJspBase {
-
-
+//ahsahgsakjghagh
+  //ahsjashj
+  
+  ahbskhaahsk;ajhs;akhs
+    ;akhkahkajhkashaskhkahs
+      kh;kahs;akjhas
 //
 //   Filename: Common.jsp
 //   Generated with CodeCharge  v.1.2.0
