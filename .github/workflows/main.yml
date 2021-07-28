@@ -16,7 +16,7 @@ jobs:
         with:
           project_name: ShaulGithubAction
           cx_tenant: Dp_wp_account
-          base_uri: https://eu.iam.checkmarx.net/ 
+          base_uri: https://eu.ast.checkmarx.net/
           cx_client_id: ${{ secrets.CLIENT_ID }}
           cx_client_secret: ${{ secrets.SECRET }}
           scan_types: sast,kics,sca
