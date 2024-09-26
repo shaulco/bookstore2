@@ -3,6 +3,9 @@ import javax.servlet.http.*;
 import javax.servlet.jsp.*;
 import org.apache.jasper.runtime.*;
 //test1
+///jagsjlsgJAG
+JHSJSJKSGH;KS;SK  
+SK
 
 public class AdminMenu_jsp extends HttpJspBase {
 
